@@ -1,0 +1,13 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background: green;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=10);
+  opacity: 0.1;
+}
+.box p {
+  font-size: 14px;
+}

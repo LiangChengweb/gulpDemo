@@ -1,0 +1,10 @@
+.box {
+	height: 100px;
+	width: 100px; 
+	background: red;
+	border-radius: 5px;
+	font-size: 14px;
+	margin-left: 30px;
+	$bg: #334;
+	background: $bg;
+}

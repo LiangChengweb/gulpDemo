@@ -1,0 +1,12 @@
+@import "compass/css3";
+
+.box {
+	width: 100px;
+	height: 100px;
+	background: green;
+	@include border-radius(10px);
+	p {
+		font-size: 14px;
+	}
+	@include opacity(.1);
+}

@@ -1,0 +1,7 @@
+node_modules
+.idea
+dist
+/gulp-babelJshint/build
+/gulp-jshint/build
+/gulp-livereload/build
+/gulp-wiredep/bower_components
